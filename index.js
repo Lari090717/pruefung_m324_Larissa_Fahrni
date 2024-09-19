@@ -1,8 +1,17 @@
-import chalk from "chalk";
+import chalk from 'chalk';
 
-console.log(chalk.blue("It works"));
+console.log(
+  chalk.blue(
+    'It works',
+  ),
+);
 
-const myVariable = 42; 
-if (myVariable === 42) { 
-    console.log("Linting errors are fixed");
+const myVariable = 42;
+if (
+  myVariable ===
+  42
+) {
+  console.log(
+    'Linting errors are fixed',
+  );
 }
