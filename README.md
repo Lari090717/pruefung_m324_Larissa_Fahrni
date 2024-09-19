@@ -1,1 +1,1 @@
-# pruefung_m324_Larissa_Fahrni
+# Prüfung M324
