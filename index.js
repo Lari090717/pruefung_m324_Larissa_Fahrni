@@ -2,7 +2,7 @@ import chalk from "chalk";
 
 console.log(chalk.blue("It works"));
 
-let myUnusedVariable = 42; 
-if (myUnusedVariable == 42) { 
-    console.log("This should trigger the 'eqeqeq' rule");
+const myVariable = 42; 
+if (myVariable === 42) { 
+    console.log("Linting errors are fixed");
 }
